@@ -1,0 +1,1 @@
+The goal of this project is to create a mobile app that helps in putting together puzzles.

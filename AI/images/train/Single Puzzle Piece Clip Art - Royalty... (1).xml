@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Single Puzzle Piece Clip Art - Royalty... (1).jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Single Puzzle Piece Clip Art - Royalty... (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>194</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>31</ymin>
+			<xmax>152</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

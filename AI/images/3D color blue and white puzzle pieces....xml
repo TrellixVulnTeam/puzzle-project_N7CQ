@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3D color blue and white puzzle pieces....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\3D color blue and white puzzle pieces....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1035</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>402</ymin>
+			<xmax>1044</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>How jigsaw puzzle is made - material....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\How jigsaw puzzle is made - material....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>354</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>201</ymin>
+			<xmax>234</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

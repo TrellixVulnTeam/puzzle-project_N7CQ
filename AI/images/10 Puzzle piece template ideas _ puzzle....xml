@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>10 Puzzle piece template ideas _ puzzle....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\10 Puzzle piece template ideas _ puzzle....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>386</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>18</ymin>
+			<xmax>444</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

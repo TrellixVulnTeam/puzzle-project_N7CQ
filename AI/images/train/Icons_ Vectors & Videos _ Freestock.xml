@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Icons_ Vectors &amp; Videos _ Freestock.jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Icons_ Vectors &amp; Videos _ Freestock.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>219</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>33</ymin>
+			<xmax>243</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

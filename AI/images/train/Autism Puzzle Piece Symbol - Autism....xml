@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Autism Puzzle Piece Symbol - Autism....png</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Autism Puzzle Piece Symbol - Autism....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>150</ymin>
+			<xmax>489</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

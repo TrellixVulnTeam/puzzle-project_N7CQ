@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Free Single Puzzle Piece Art Prints and....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Free Single Puzzle Piece Art Prints and....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>34</ymin>
+			<xmax>224</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

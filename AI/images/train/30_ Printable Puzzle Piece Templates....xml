@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>30_ Printable Puzzle Piece Templates....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\30_ Printable Puzzle Piece Templates....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>222</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>2</ymin>
+			<xmax>219</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Single jigsaw puzzle piece on wooden....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Single jigsaw puzzle piece on wooden....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>219</ymin>
+			<xmax>765</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

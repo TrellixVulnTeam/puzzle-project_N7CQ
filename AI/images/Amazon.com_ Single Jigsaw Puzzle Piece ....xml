@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Amazon.com_ Single Jigsaw Puzzle Piece ....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Amazon.com_ Single Jigsaw Puzzle Piece ....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2197</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>406</ymin>
+			<xmax>1499</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1505</xmin>
+			<ymin>433</ymin>
+			<xmax>2313</xmax>
+			<ymax>1112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1643</xmin>
+			<ymin>1166</ymin>
+			<xmax>2126</xmax>
+			<ymax>1588</ymax>
+		</bndbox>
+	</object>
+</annotation>

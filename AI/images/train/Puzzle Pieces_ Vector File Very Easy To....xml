@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Puzzle Pieces_ Vector File Very Easy To....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Puzzle Pieces_ Vector File Very Easy To....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1265</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>695</xmin>
+			<ymin>683</ymin>
+			<xmax>1265</xmax>
+			<ymax>1300</ymax>
+		</bndbox>
+	</object>
+</annotation>

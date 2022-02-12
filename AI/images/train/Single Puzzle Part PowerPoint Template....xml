@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Single Puzzle Part PowerPoint Template....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Single Puzzle Part PowerPoint Template....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>135</ymin>
+			<xmax>450</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

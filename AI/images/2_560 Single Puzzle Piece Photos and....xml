@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2_560 Single Puzzle Piece Photos and....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\2_560 Single Puzzle Piece Photos and....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>74</ymin>
+			<xmax>543</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

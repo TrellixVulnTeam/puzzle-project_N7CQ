@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Puzzle Piece Puzzle Clip Art Image....png</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Puzzle Piece Puzzle Clip Art Image....png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>6</ymin>
+			<xmax>313</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

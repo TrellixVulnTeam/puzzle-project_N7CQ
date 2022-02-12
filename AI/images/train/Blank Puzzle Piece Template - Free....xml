@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Blank Puzzle Piece Template - Free....jpg</filename>
+	<path>C:\Users\mkzom\Desktop\PuzzleProject-Angular\puzzles\images\Blank Puzzle Piece Template - Free....jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>927</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puzzle piece</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>354</ymin>
+			<xmax>654</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>
